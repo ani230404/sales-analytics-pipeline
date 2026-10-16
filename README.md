@@ -15,7 +15,8 @@ An end-to-end analytical data engineering pipeline and reporting application bui
 
 ### 1. Clone repository & install dependencies
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/sales-analytics-pipeline.git
+git clone https://github.com/ani230404/sales-analytics-pipeline.git
+cd sales-analytics-pipeline
 cd sales-analytics-pipeline
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
